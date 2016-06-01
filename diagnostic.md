@@ -17,6 +17,7 @@ Write the Sass code to access the variable once it has been defined.
 ```scss
 a {
   color: $cornflower;
+  
 }
 ```
 
